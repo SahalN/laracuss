@@ -63,7 +63,25 @@
                 <img class="hero-image float-lg-end" src="{{ url('assets/images/hero-image.png') }}" alt="">
             </div>
         </div>
-
+    </section>
+    <section class="container min-h-372px">
+        <div class="row">
+            <div class="col-12 col-lg-4 text-center">
+                <img class="promote-icon mb-2" src="{{ url('assets/images/discussions.png') }}" alt="Discussions">
+                <h2>Discussions</h2>
+                <p class="fs-3">34,834</p>
+            </div>
+            <div class="col-12 col-lg-4 text-center">
+                <img class="promote-icon mb-2" src="{{ url('assets/images/answers.png') }}" alt="Answers">
+                <h2>Answers</h2>
+                <p class="fs-3">53,674</p>
+            </div>
+            <div class="col-12 col-lg-4 text-center">
+                <img class="promote-icon mb-2" src="{{ url('assets/images/users.png') }}" alt="Users">
+                <h2>Users</h2>
+                <p class="fs-3">66,346</p>
+            </div>
+        </div>
     </section>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 </body>
