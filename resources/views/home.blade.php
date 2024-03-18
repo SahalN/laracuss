@@ -28,7 +28,7 @@
                     <li class="nav-item">
                         <a class="nav-link " href="#">Discussions</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item text-nowrap">
                         <a class="nav-link " href="#"">About Us</a>
                     </li>
                 </ul>
@@ -40,7 +40,7 @@
                             aria-label="Search" name="" value="">
                     </div>
                 </form>
-                <ul>
+                <ul class="navbar-nav ms-auto my-2 my-lg-0">
                     <li class="nav-item my-auto">
                         <a class="nav-link text-nowrap " href="#"">Log In</a>
                     </li>
