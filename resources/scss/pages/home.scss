@@ -1,0 +1,16 @@
+.hero {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+@include media-breakpoint-up(lg) {
+    .hero {
+        padding-top: 144px;
+        padding-bottom: 144px;
+    }
+}
+
+.hero-image {
+    max-height: 100%;
+    max-width: 100%;
+}
