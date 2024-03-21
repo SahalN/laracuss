@@ -21,7 +21,7 @@
 
                                     <div class="mb-3">
                                         <label for="answer" class="form-label">Answer</label>
-                                        <textarea class="form-control" id="answer" name="answer"></textarea>
+                                        <textarea class="form-control" id="answers" name="answer"></textarea>
                                     </div>
                                     <div>
                                         <button class="btn btn-primary me-4" type="submit">Submit</button>
